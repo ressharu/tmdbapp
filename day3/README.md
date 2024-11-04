@@ -28,3 +28,5 @@ The Movie Database API を利用したアプリを作成してください。要
   - https://developer.themoviedb.org/docs/image-basics
 - 人気映画一覧画面の一例
   - ![image](./images/example.png)
+
+  waiwai
